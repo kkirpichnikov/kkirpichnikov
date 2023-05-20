@@ -7,19 +7,13 @@
 
 My name is Konstantin Kirpichnikov<sup>1</sup> and my field of expertise is broadly-understood Cloud Computing. 
 
-I'm from the USA :us: and I'm currently working remotely [**@Collibra**](https://www.collibra.com/us/en) as an Senior Service Operations Engineer, Cloud Platforms. I have +7 years professional background with various Cloud providers (AWS, GCP) in public, private, and hybrid-Cloud solutions. If you want to know more, then please find me on [**LinkedIn**](https://linkedin.com/in/kkirpichnikov).
-
-<sup>1</sup> Phonetically: `Kon-stan-tin Kir-pich-nikov`
+I'm from the USA :us: and I'm currently working remotely as an Senior CloudSecurity egngineer, Cloud Platforms. I have +9 years professional background with various Cloud providers (AWS, GCP) in public, private, and hybrid-Cloud solutions. If you want to know more, then please find me on [**LinkedIn**](https://linkedin.com/in/kkirpichnikov).
 
 <table>
-<td align="center"><a target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkirpichnikov&theme=nord&show_icons=true&count_private=true&hide_border=true&disable_animations=true&custom_title=Some stats" alt="random's github stats" style="max-width: 100%;"></td>
 <td align="center"><a href="https://git.io/streak-stats" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kkirpichnikov&theme=nord&count_private=true&hide_border=true&disable_animations=true" alt="GitHub Streak" style="max-width: 100%;"></td>
 </table>
 
 <table>
-<td align="center"><a target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=konstantin-recurly&theme=nord&show_icons=true&count_private=true&hide_border=true&disable_animations=true&custom_title=Some stats" alt="random's github stats" style="max-width: 100%;"></td>
 <td align="center"><a href="https://git.io/streak-stats" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=konstantin-recurly&theme=nord&count_private=true&hide_border=true&disable_animations=true" alt="GitHub Streak" style="max-width: 100%;"></td>
 </table>
 
