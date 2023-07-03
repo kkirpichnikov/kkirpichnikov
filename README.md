@@ -21,8 +21,7 @@ I'm from the USA :us: and I'm currently working remotely as an Senior CloudSecur
 ### About Me :speech_balloon:	
 ___
 
-<img align="right" alt="gif designed by Gabriela Mancini" data-canonical-src="https://www.toptal.com/press-center/third-scholarship-winner" width=auto height=250px src="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/gabriela_mancini.gif" style="max-width: 100%;">
-
+<img align="right" data-canonical-src="https://www.toptal.com/press-center/third-scholarship-winner" width=30% height=auto src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" style="max-width: 100%;">
 
 ```shell script
 const info = {
