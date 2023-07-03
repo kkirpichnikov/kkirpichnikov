@@ -23,6 +23,7 @@ ___
 
 <img align="right" alt="gif designed by Gabriela Mancini" data-canonical-src="https://www.toptal.com/press-center/third-scholarship-winner" width=auto height=250px src="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/gabriela_mancini.gif" style="max-width: 100%;">
 
+
 ```shell script
 const info = {
     pronouns: "vi" | "vim",
